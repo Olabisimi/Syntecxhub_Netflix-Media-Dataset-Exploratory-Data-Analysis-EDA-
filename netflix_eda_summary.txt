@@ -1,0 +1,8 @@
+
+Netflix Dataset EDA Summary
+
+- Total titles: 4812
+- Movies: 0
+- TV Shows: 0
+- Most common genre: Thrillers
+- Year with most releases: 2017
